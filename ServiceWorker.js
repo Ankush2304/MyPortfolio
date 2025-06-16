@@ -1,9 +1,9 @@
 const cacheName = "Portfolio-Ankush Gadhiya-1.0";
 const contentToCache = [
-    "Build/Build_WebGL.loader.js",
-    "Build/Build_WebGL.framework.js",
-    "Build/Build_WebGL.data",
-    "Build/Build_WebGL.wasm",
+    "Build/MyPortfolio.loader.js",
+    "Build/MyPortfolio.framework.js",
+    "Build/MyPortfolio.data",
+    "Build/MyPortfolio.wasm",
     "TemplateData/style.css"
 
 ];
